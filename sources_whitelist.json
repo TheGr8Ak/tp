@@ -1,0 +1,45 @@
+{
+  "freelance_job_boards": [
+    {
+      "name": "Upwork",
+      "url": "https://www.upwork.com/ab/feed/jobs/rss?q=salesforce",
+      "type": "rss",
+      "priority": "high",
+      "interval_minutes": 10
+    },
+    {
+      "name": "Freelancer",
+      "url": "https://www.freelancer.com/rss/search/projects/salesforce",
+      "type": "rss",
+      "priority": "high",
+      "interval_minutes": 10
+    },
+    {
+      "name": "Indeed",
+      "url": "https://www.indeed.com/rss?q=salesforce+implementation",
+      "type": "rss",
+      "priority": "high",
+      "interval_minutes": 10
+    }
+  ],
+  "news_press_releases": [
+    {
+      "name": "PR Newswire",
+      "url": "https://www.prnewswire.com/rss/news-releases-list.rss?keyword=salesforce",
+      "type": "rss",
+      "priority": "medium",
+      "interval_minutes": 30
+    }
+  ],
+  "government_tenders": [],
+  "company_databases": [],
+  "communities": [
+    {
+      "name": "Reddit Salesforce",
+      "url": "https://www.reddit.com/r/salesforce/new.json",
+      "type": "api",
+      "priority": "medium",
+      "interval_minutes": 60
+    }
+  ]
+}
