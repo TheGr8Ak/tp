@@ -1,7 +1,0 @@
-fastapi
-uvicorn
-aiohttp
-feedparser
-spacy
-requests
-python-dotenv
