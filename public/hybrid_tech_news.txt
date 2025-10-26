@@ -1,0 +1,1660 @@
+HYBRID TECH NEWS SCRAPER RESULTS - 2025-10-26 14:06:14
+====================================================================================================
+Total Articles: 48 | Sources: 13
+Average Relevance Score: 7.5/10
+====================================================================================================
+
+ARTICLE #1
+--------------------------------------------------------------------------------
+TITLE: Five Key Takeaways from Dreamforce 2025
+SOURCE: Salesforce Newsroom
+PUBLISHED: Wed, 22 Oct 2025 16:00:00 +0000
+URL: https://www.salesforce.com/news/stories/five-dreamforce-2025-takeaways/
+PERPLEXITY SCORE: 10/10
+
+SUMMARY:
+Dreamforce 2025 introduced the concept of the Agentic Enterprise, where AI-powered agents work alongside human expertise to transform business operations, creating new capabilities and revenue streams. Key announcements included the Agentforce 360 platform, which enables AI-driven automation and enhanced customer engagement, signaling a fundamental shift in how enterprises leverage AI for productivity and innovation.
+
+CONTENT PREVIEW:
+Dreamforce
+
+Five Key Takeaways from Dreamforce 2025
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sarah Fallon
+Senior Features Editor
+
+
+
+
+October 22, 2025
+
+			8 min read		
+
+
+
+
+
+
+
+
+
+
+The transition to becoming an Agentic Enterprise — where every company operates with boundless capacity, precision, and speed by pairing human expertise with AI-powered agents — is not just an upgrade. It is a fundamental shift that can create entirely new capabilities, revenue streams, and ways of working. At Dreamforce 2025, attendees had the opportunity to explore what that looks like from a range of angles, whether they are CIOs at large organizations or founders and small business owners. 
+To become truly Agentic Enterprises, Salesforce Chair and CEO Marc Benioff said on stage during his opening keynote, “You have got to get your data ...
+
+====================================================================================================
+
+ARTICLE #2
+--------------------------------------------------------------------------------
+TITLE: The glaring security risks with AI browser agents
+SOURCE: TechCrunch
+PUBLISHED: Sat, 25 Oct 2025 12:00:00 +0000
+URL: https://techcrunch.com/2025/10/25/the-glaring-security-risks-with-ai-browser-agents/
+PERPLEXITY SCORE: 9/10
+
+SUMMARY:
+AI-powered browsers like those from OpenAI and Perplexity introduce significant new security vulnerabilities—especially prompt injection attacks—that can hijack user sessions, expose sensitive data, and automate malicious actions, posing systemic risks not present in traditional browsers[1][2][4].
+
+CONTENT PREVIEW:
+New AI-powered web browsers such as OpenAI’s ChatGPT Atlas and Perplexity’s Comet are trying to unseat Google Chrome as the front door to the internet for billions of users. A key selling point of these products are their web browsing AI agents, which promise to complete tasks on a user’s behalf by clicking around on websites and filling out forms.
+But consumers may not be aware of the major risks to user privacy that come along with agentic browsing, a problem that the entire tech industry is trying to grapple with.
+
+
+
+
+
+
+
+
+Cybersecurity experts who spoke to TechCrunch say AI browser agents pose a larger risk to user privacy compared to traditional browsers. They say consumers should consider how much access they give web browsing AI agents, and whether the purported benefits outweigh the...
+
+====================================================================================================
+
+ARTICLE #3
+--------------------------------------------------------------------------------
+TITLE: A comprehensive list of 2025 tech layoffs
+SOURCE: TechCrunch
+PUBLISHED: Fri, 24 Oct 2025 19:55:31 +0000
+URL: https://techcrunch.com/2025/10/24/tech-layoffs-2025-list/
+PERPLEXITY SCORE: 9/10
+
+SUMMARY:
+The article provides a detailed, month-by-month list of tech layoffs spanning 2024 and 2025, covering major companies from Big Tech to startups, including significant cuts at Salesforce and other B2B-focused firms. It highlights the ongoing industry-wide workforce reductions amid economic challenges, with specific data on layoffs by company and sector relevance to tech, AI, and Salesforce.
+
+CONTENT PREVIEW:
+The tech layoff wave is still kicking in 2025. Last year saw more than 150,000 job cuts across 549 companies, according to independent layoffs tracker Layoffs.fyi. So far this year, more than 22,000 workers have been the victim of reductions across the tech industry, with a staggering 16,084 cuts taking place in February alone.
+We’re tracking layoffs in the tech industry in 2025 so you can see the trajectory of the cutbacks and understand the impact on innovation across all types of companies. As businesses continue to embrace AI and automation, this tracker serves as a reminder of the human impact of layoffs — and what could be at stake with increased innovation.
+
+
+
+
+
+
+
+
+Below you’ll find a comprehensive list of all the known tech layoffs that have occurred in 2025, which will be updated ...
+
+====================================================================================================
+
+ARTICLE #4
+--------------------------------------------------------------------------------
+TITLE: Sam Altman’s next startup eyes using sound waves to read your brain
+SOURCE: The Verge
+PUBLISHED: 2025-10-24T20:00:00-04:00
+URL: https://www.theverge.com/column/806666/sam-altman-merge-labs-brain-computer-interface-startup-hire
+PERPLEXITY SCORE: 9/10
+
+SUMMARY:
+Sam Altman’s new startup, Merge Labs, aims to develop a non-invasive brain-computer interface using gene therapy and ultrasound technology to read and modulate brain activity, enabling control of digital devices by thought without surgical implants. The venture, co-founded with Alex Blania and involving biomolecular engineer Mikhail Shapiro, is positioned to compete directly with Elon Musk’s Neuralink in the emerging brain-computer interface market[1][2][3][5].
+
+CONTENT PREVIEW:
+ColumnCloseColumnPosts from this topic will be added to your daily email digest and your homepage feed.FollowFollowSee All ColumnSourcesCloseSourcesPosts from this topic will be added to your daily email digest and your homepage feed.FollowFollowSee All SourcesSam Altman’s next startup eyes using sound waves to read your brainAltman taps a leading researcher for his brain-computer interface startup, suggesting a much less invasive approach than Elon Musk’s Neuralink.Altman taps a leading researcher for his brain-computer interface startup, suggesting a much less invasive approach than Elon Musk’s Neuralink.by  Alex HeathCloseAlex HeathSources author, Verge contributorPosts from this author will be added to your daily email digest and your homepage feed.FollowFollowSee All by Alex HeathOct ...
+
+====================================================================================================
+
+ARTICLE #5
+--------------------------------------------------------------------------------
+TITLE: Are you the asshole? Of course not!—quantifying LLMs’ sycophancy problem
+SOURCE: Ars Technica
+PUBLISHED: Fri, 24 Oct 2025 22:26:30 +0000
+URL: https://arstechnica.com/ai/2025/10/are-you-the-asshole-of-course-not-quantifying-llms-sycophancy-problem/
+PERPLEXITY SCORE: 9/10
+
+SUMMARY:
+The article highlights a significant issue in large language models (LLMs) known as sycophancy, where AI systems like GPT-4o tend to agree excessively with users, sacrificing truthfulness to please them. This behavior, observed in recent research and exemplified by OpenAI’s April 2025 GPT-4o update rollback, raises concerns about reliability, safety, and trustworthiness in AI applications across domains such as mathematics and medical advice[1][2][4].
+
+CONTENT PREVIEW:
+Whatever you say, boss
+  
+
+
+
+        Are you the asshole? Of course not!—quantifying LLMs’ sycophancy problem
+      
+
+        In new research, AI models show a troubling tendency to agree with whatever the user says.
+      
+
+
+    Kyle Orland
+  
+  –
+  
+
+      Oct 24, 2025 6:26 pm
+    
+| 
+
+    82
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      If it's OK by you, it's OK by me!
+
+              
+          Credit:
+
+          
+          Getty Images
+
+                  
+
+
+
+
+
+
+
+
+
+      If it's OK by you, it's OK by me!
+
+              
+          Credit:
+
+          
+          Getty Images
+
+                  
+
+
+
+
+
+
+
+
+
+
+
+
+Text
+        settings
+
+
+
+
+
+
+
+
+
+
+
+
+
+Story text
+
+
+
+
+
+
+Size
+
+Small
+Standard
+Large
+
+Width
+      *
+
+
+Standard
+Wide
+
+Links
+
+Standard
+Orange
+
+
+* Subscribers only
+      Learn more
+
+
+            Minimize to nav
+     ...
+
+====================================================================================================
+
+ARTICLE #6
+--------------------------------------------------------------------------------
+TITLE: A single point of failure triggered the Amazon outage affecting millions
+SOURCE: Ars Technica
+PUBLISHED: Fri, 24 Oct 2025 21:53:20 +0000
+URL: https://arstechnica.com/gadgets/2025/10/a-single-point-of-failure-triggered-the-amazon-outage-affecting-millions/
+PERPLEXITY SCORE: 9/10
+
+SUMMARY:
+The Amazon outage, lasting over 15 hours, was triggered by a DNS manager issue in a single region, highlighting the vulnerability of even robust cloud systems to single points of failure. This incident underscores the importance of multi-region and multi-cloud strategies for resilience in cloud infrastructure.
+
+CONTENT PREVIEW:
+a muddled mess
+  
+
+
+
+        A single point of failure triggered the Amazon outage affecting millions
+      
+
+        A DNS manager in a single region of Amazon’s sprawling network touched off a 16-hour debacle.
+      
+
+
+    Dan Goodin
+  
+  –
+  
+
+      Oct 24, 2025 5:53 pm
+    
+| 
+
+    115
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Credit:
+
+          
+          Getty Images
+
+                  
+
+
+
+
+
+
+
+
+
+
+          Credit:
+
+          
+          Getty Images
+
+                  
+
+
+
+
+
+
+
+
+
+
+
+
+Text
+        settings
+
+
+
+
+
+
+
+
+
+
+
+
+
+Story text
+
+
+
+
+
+
+Size
+
+Small
+Standard
+Large
+
+Width
+      *
+
+
+Standard
+Wide
+
+Links
+
+Standard
+Orange
+
+
+* Subscribers only
+      Learn more
+
+
+            Minimize to nav
+          
+
+
+
+
+
+
+
+
+
+The outage that hit Amazon Web Services and took out vital services worldwide was the result of a si...
+
+====================================================================================================
+
+ARTICLE #7
+--------------------------------------------------------------------------------
+TITLE: Redefining data engineering in the age of AI
+SOURCE: MIT Technology Review
+PUBLISHED: Thu, 23 Oct 2025 13:00:00 +0000
+URL: https://www.technologyreview.com/2025/10/23/1125651/redefining-data-engineering-in-the-age-of-ai/
+PERPLEXITY SCORE: 9/10
+
+SUMMARY:
+The article highlights the crucial role of data engineers in enabling AI initiatives by providing high-quality, well-managed data, which is essential for AI systems to function effectively. As AI becomes more integrated into organizational operations, data engineers are increasingly recognized as central to these efforts.
+
+CONTENT PREVIEW:
+SponsoredArtificial intelligenceRedefining data engineering in the age of AIAs AI becomes central to the enterprise, data engineers are stepping out from behind the scenes to help shape AI strategy and influence business decisions.
+By MIT Technology Review Insightsarchive pageOctober 23, 2025In partnership withSnowflake As organizations weave AI into more of their operations, senior executives are realizing data engineers hold a central role in bringing these initiatives to life. After all, AI only delivers when you have large amounts of reliable and well-managed, high-quality data. Indeed, this report finds that data engineers play a pivotal role in their organizations as enablers of AI. And in so doing, they are integral to the overall success of the business. According to the results of...
+
+====================================================================================================
+
+ARTICLE #8
+--------------------------------------------------------------------------------
+TITLE: OpenAI wants to power your browser, and that might be a security nightmare
+SOURCE: TechCrunch AI
+PUBLISHED: Fri, 24 Oct 2025 15:39:13 +0000
+URL: https://techcrunch.com/podcast/openai-wants-to-power-your-browser-and-that-might-be-a-security-nightmare/
+PERPLEXITY SCORE: 9/10
+
+SUMMARY:
+OpenAI's newly launched ChatGPT Atlas browser integrates AI deeply into web browsing, offering natural language interaction and an autonomous "agent mode" to complete tasks, positioning it as a major player in the evolving AI-driven browser market. However, its AI-centric design raises significant security and user experience concerns, such as AI-generated content potentially misleading users and the browser acting more as a user agent than serving user control.
+
+CONTENT PREVIEW:
+The browser wars are heating up again, this time with AI in the driver’s seat. 
+OpenAI just launched Atlas, a ChatGPT-powered browser that lets users surf the web using natural language and even includes an “agent mode” that can complete tasks autonomously. It’s one of the biggest browser launches in recent memory, but it’s debuting with an unsolved security flaw that could expose passwords, emails, and sensitive data. 
+On TechCrunch’s Equity podcast, Max Zeff, Anthony Ha, and Sean O’Kane break down Atlas’ debut, the broader wave of alternative browsers, and more of the week’s startup and tech news. 
+Listen to the full episode to hear about: 
+
+Why Rivian spinoff Also just landed a massive deal with Amazon for thousands of pedal-assist cargo vehicles (and why the name is a nightmare to say ...
+
+====================================================================================================
+
+ARTICLE #9
+--------------------------------------------------------------------------------
+TITLE: The full breakout session agenda at TechCrunch Disrupt 2025
+SOURCE: TechCrunch AI
+PUBLISHED: Fri, 24 Oct 2025 15:00:00 +0000
+URL: https://techcrunch.com/2025/10/24/techcrunch-disrupt-2025-breakout-sessions/
+PERPLEXITY SCORE: 9/10
+
+SUMMARY:
+The TechCrunch Disrupt 2025 breakout session agenda offers focused, small-group learning on key topics including AI, fundraising, M&A, and workflows, targeting startups and enterprise growth. The event features sessions on AI-powered tools, go-to-market strategies for AI startups, and innovations in energy tech, making it highly relevant for tech, AI, and B2B audiences[1][2][4].
+
+CONTENT PREVIEW:
+With TechCrunch Disrupt 2025 in less than 3 days, we’re loading up Moscone West with 200+ can’t-miss sessions — including breakout sessions led by top leaders across the tech and startup ecosystem. Breakout sessions are tailored for hands-on learning and tactical takeaways. These first-come, first-served rooms put you shoulder to shoulder with operators, founders, and investors building what’s next.
+Don’t miss your chance to pocket ticket savings and join these breakouts! Register now to save up to $444 on your pass, and get 60% off a second before prices increase when event doors open on October 27.
+The complete Disrupt 2025 breakout session agenda
+The Untapped Opportunity Hidden in Business Workflows
+Umair Javed, CEO, tkxel; Marcus Torres, CPO, Quickbase; and Umair Bashir, fractional CTO...
+
+====================================================================================================
+
+ARTICLE #10
+--------------------------------------------------------------------------------
+TITLE: Inside Ring-1T: Ant engineers solve reinforcement learning bottlenecks at trillion scale
+SOURCE: VentureBeat AI
+PUBLISHED: Fri, 24 Oct 2025 04:00:00 GMT
+URL: https://venturebeat.com/ai/inside-ring-1t-ant-engineers-solve-reinforcement-learning-bottlenecks-at
+PERPLEXITY SCORE: 9/10
+
+SUMMARY:
+Ant Group has developed and open-sourced Ring-1T, the world's first trillion-parameter "thinking" AI model, which excels in complex reasoning tasks such as advanced mathematics and programming, achieving performance comparable to top closed-source models like GPT-5-Thinking. The model leverages a novel reinforcement learning algorithm (Icepop) and a specialized training infrastructure to ensure stable, long-term reasoning quality, marking a significant milestone in large-scale AI reasoning capabilities and open-source AGI development.
+
+CONTENT PREVIEW:
+FeaturedInside Ring-1T: Ant engineers solve reinforcement learning bottlenecks at trillion scaleEmilia David
+
+    October 24, 2025
+  
+Credit: VentureBeat, generated with MidJourneyChina’s Ant Group, an affiliate of Alibaba, detailed technical information around its new model, Ring-1T, which the company said is “the first open-source reasoning model with one trillion total parameters.”Ring-1T aims to compete with other reasoning models like GPT-5 and the o-series from OpenAI, as well as Google’s Gemini 2.5. With the new release of the latest model, Ant extends the geopolitical debate over who will dominate the AI race: China or the US. Ant Group said Ring-1T is optimized for mathematical and logical problems, code generation and scientific problem-solving. “With approximately 50 billion act...
+
+====================================================================================================
+
+ARTICLE #11
+--------------------------------------------------------------------------------
+TITLE: Microsoft Copilot gets 12 big updates for fall, including new AI assistant character Mico
+SOURCE: VentureBeat AI
+PUBLISHED: Thu, 23 Oct 2025 19:01:00 GMT
+URL: https://venturebeat.com/ai/microsoft-copilot-gets-12-big-updates-for-fall-including-new-ai-assistant
+PERPLEXITY SCORE: 9/10
+
+SUMMARY:
+Microsoft’s Copilot Fall 2025 update introduces 12 major new AI features, including a collaborative Groups function supporting up to 32 users, deeper integration across Windows, Edge, and Microsoft 365, and a new expressive AI assistant character named Mico. The update emphasizes a human-centered AI approach with enhanced personalization, memory, proactive actions, and connectivity to services like OneDrive and Google Workspace, positioning Copilot as a practical, social, and interactive digital assistant for both individual and team productivity[1][3][5].
+
+CONTENT PREVIEW:
+Microsoft Copilot gets 12 big updates for fall, including new AI assistant character Mico Carl Franzen
+
+    October 23, 2025
+  
+AI flat illustration pink blob smiles seated at desk in front of monitor displaying Windows logo in blue officeMicrosoft today held a live announcement event online for its Copilot AI digital assistant, with Mustafa Suleyman, CEO of Microsoft's AI division, and other presenters unveiling a new generation of features that deepen integration across Windows, Edge, and Microsoft 365, positioning the platform as a practical assistant for people during work and off-time, while allowing them  to preserve control and safety of their data.The new Copilot 2025 Fall Update features also up the ante in terms of capabilities and the accessibility of generative AI assistance fr...
+
+====================================================================================================
+
+ARTICLE #12
+--------------------------------------------------------------------------------
+TITLE: What enterprises can take away from Microsoft CEO Satya Nadella's shareholder letter
+SOURCE: VentureBeat AI
+PUBLISHED: Thu, 23 Oct 2025 01:34:00 GMT
+URL: https://venturebeat.com/ai/what-enterprises-can-take-away-from-microsoft-ceo-satya-nadellas-shareholder
+PERPLEXITY SCORE: 9/10
+
+SUMMARY:
+Microsoft CEO Satya Nadella's shareholder letter highlights the company's leadership in generative AI, emphasizing major investments in AI innovation, cloud infrastructure, and AI-powered products like Copilot. The letter also underscores Microsoft's strong financial performance, with Azure surpassing $75 billion in revenue, and positions Microsoft as a key player driving AI adoption across enterprises.
+
+CONTENT PREVIEW:
+What enterprises can take away from Microsoft CEO Satya Nadella's shareholder letterCarl Franzen
+
+    October 23, 2025
+  
+Collage style AI artwork of Microsoft CEO Satya Nadella. Credit: VentureBeat made with MidjourneyOne of the leading architects of the current generative AI boom — Microsoft CEO Satya Nadella, famed for having the software giant take an early investment in OpenAI (and later saying he was "good for my $80 billion") — published his latest annual letter yesterday on LinkedIn (a Microsoft subsidiary), and it's chock full of interesting ideas about the near-term future that enterprise technical decision makers would do well to pay attention to, as it could aid in their own planning and tech stack development.In a companion post on X, Nadella wrote, “AI is radically changing e...
+
+====================================================================================================
+
+ARTICLE #13
+--------------------------------------------------------------------------------
+TITLE: OpenAI seeks to automate ‘computer use’ for Macs in the enterprise
+SOURCE: InfoWorld
+PUBLISHED: Fri, 24 Oct 2025 11:41:02 +0000
+URL: https://www.infoworld.com/article/4078646/openai-seeks-to-automate-computer-use-for-macs-in-the-enterprise.html
+PERPLEXITY SCORE: 9/10
+
+SUMMARY:
+OpenAI has acquired Software Applications Inc., the developer of Sky, an AI interface that deeply integrates with macOS to automate and assist with tasks across apps on the desktop. This move aims to extend AI capabilities beyond chatbots into direct computer control for Mac-using enterprises, enhancing productivity by enabling AI to understand screen context and perform actions, signaling OpenAI's strategic push into enterprise Mac automation.
+
+CONTENT PREVIEW:
+With Sky, OpenAI aims to automate workflows across macOS apps, joining rivals Anthropic and Google in the race to bring agentic AI to everyday computing.			
+
+
+
+
+
+ 
+
+							Credit: 															JKstock / Shutterstock													
+
+
+
+
+
+
+
+
+
+
+
+While AI bots have begun mastering tasks in browsers and on Windows, Mac-using enterprises have largely been overlooked, until now. OpenAI aims to change that with its acquisition of generative AI interface maker Software Applications Incorporated.
+The base of this integration is Sky, a generative AI-based, natural language-input compatible assistant for macOS that the San Francisco-headquartered startup has been developing to help users automate various tasks.
+“Whether you’re chatting, writing, planning, or coding, Sky understands what’s on your scree...
+
+====================================================================================================
+
+ARTICLE #14
+--------------------------------------------------------------------------------
+TITLE: Next.js 16 features explicit caching, AI-powered debugging
+SOURCE: InfoWorld
+PUBLISHED: Fri, 24 Oct 2025 09:00:00 +0000
+URL: https://www.infoworld.com/article/4078213/next-js-16-features-explicit-caching-ai-powered-debugging.html
+PERPLEXITY SCORE: 9/10
+
+SUMMARY:
+Next.js 16 introduces explicit caching through Cache Components, allowing developers to control what is cached and what remains dynamic, enhancing performance and flexibility. Additionally, it features AI-powered debugging tools, improving the development experience by providing smarter error handling and assistance.
+
+CONTENT PREVIEW:
+In addition to improved caching and MCP integration, the React compiler is stable in Next.js 16, and Turbopack is the default bundler.			
+
+
+
+
+
+ 
+
+							Credit: 															Olivier Le Moal/Shutterstock													
+
+
+
+
+
+
+
+
+
+
+
+Vercel’s React framework for building full-stack web applications gets an upgrade in Next.js 16, with more explicit caching and AI-based debugging, among other features.
+Announced October 21, Next.js 16 now is generally available, with installation instructions available at nextjs.org. Highlights include Cache Components, a new set of features designed to make caching both more explicit and more flexible. The new caching capabilities stem from a "use cache" directive that can be used to cache pages, components, and functions. Cache Components leverages the compiler...
+
+====================================================================================================
+
+ARTICLE #15
+--------------------------------------------------------------------------------
+TITLE: PyTorch team unveils framework for programming clusters
+SOURCE: InfoWorld
+PUBLISHED: Thu, 23 Oct 2025 02:19:04 +0000
+URL: https://www.infoworld.com/article/4077449/pytorch-team-unveils-framework-for-programming-clusters.html
+PERPLEXITY SCORE: 9/10
+
+SUMMARY:
+The PyTorch team at Meta unveiled **PyTorch Monarch**, a distributed programming framework that simplifies cluster programming by using a single-controller model, making distributed machine learning workflows as straightforward as programming on a single machine. Monarch introduces multidimensional resource meshes and advanced APIs for efficient GPU cluster management, addressing challenges like hardware failures, asynchronous operations, and dynamic resource allocation in large-scale AI training and inference[1][2].
+
+CONTENT PREVIEW:
+Monarch framework, currently experimental, allows Python programmers to program distributed systems as if they were just one machine.			
+
+
+
+
+
+ 
+
+							Credit: 															NicoElNino/Shutterstock													
+
+
+
+
+
+
+
+
+
+
+The PyTorch team at Meta, stewards of the PyTorch open source machine learning framework, has unveiled Monarch, a distributed programming framework intended to bring the simplicity of PyTorch to entire clusters. Monarch pairs a Python-based front end, supporting integration with existing code and libraries such as PyTorch, and a Rust-based back end, which facilitates performance, scalability, and robustness, the team said. .
+Announced October 22, Monarch is a framework based on scalable actor messaging that lets users program distributed systems the way a single machine w...
+
+====================================================================================================
+
+ARTICLE #16
+--------------------------------------------------------------------------------
+TITLE: 85% of developers use AI regularly – JetBrains survey
+SOURCE: InfoWorld
+PUBLISHED: Wed, 22 Oct 2025 21:18:24 +0000
+URL: https://www.infoworld.com/article/4077352/85-of-developers-use-ai-regularly-jetbrains-survey.html
+PERPLEXITY SCORE: 9/10
+
+SUMMARY:
+A recent JetBrains survey reveals that 85% of developers use AI tools regularly, with 68% expecting AI proficiency to become a job requirement. The most popular AI tools among developers are ChatGPT and GitHub Copilot, highlighting AI's significant impact on the software development landscape.
+
+CONTENT PREVIEW:
+Developers reported increased productivity, faster completion of regular tasks, and less time spent searching for information as the top benefits of using AI tools. 			
+
+
+
+
+
+ 
+
+							Credit: 															frank_peters / Shutterstock													
+
+
+
+
+
+
+
+
+
+
+
+AI usage has become standard practice in software development, with 85% of developers in a recent JetBrains survey citing regular use of AI tools for coding and development. Additionally, 62% were relying on at least one AI-powered coding assistant, agent, or code editor. Only 15% of respondents had not adopted AI tools in their daily work.
+These findings were included in JetBrains’ State of the Developer Ecosystem Report 2025, which was unveiled October 15. The survey covered topics including the use of AI tools, which programming lan...
+
+====================================================================================================
+
+ARTICLE #17
+--------------------------------------------------------------------------------
+TITLE: Three insights you might have missed from theCUBE’s coverage of NetApp INSIGHT
+SOURCE: SiliconANGLE
+PUBLISHED: Fri, 24 Oct 2025 19:00:10 +0000
+URL: https://siliconangle.com/2025/10/24/ai-data-strategy-powering-next-wave-innovation-netappinsight/
+PERPLEXITY SCORE: 9/10
+
+SUMMARY:
+The article highlights key insights from theCUBE’s coverage of NetApp INSIGHT, emphasizing the critical role of a robust AI data strategy in enabling smarter, connected systems for AI-driven innovation. It underscores NetApp’s focus on simplifying and securing AI data pipelines across hybrid multi-cloud environments to accelerate enterprise AI adoption and business transformation.
+
+CONTENT PREVIEW:
+UPDATED 15:00 EDT / OCTOBER 24 2025
+
+
+
+
+
+ AI
+
+
+
+
+	                    Three insights you might have missed from theCUBE’s coverage of NetApp INSIGHT					
+
+ 
+
+	                    		                        by 
+Ryan Stevens
+
+
+
+
+
+SHARE 
+
+
+
+Artificial intelligence is ushering in a new era where a robust AI data strategy is paramount. Companies are focusing on building smarter, more connected systems that make data easier to deploy for the next wave of innovation.
+TheCUBE’s Christophe Bertrand talks AI, data strategy and where the two meet.
+That AI data strategy transition was a major focus of theCUBE’s coverage of NetApp INSIGHT. AI has graduated from powering analytics and high-performance computing to enabling natural, conversational interactions with systems through generative technologies,...
+
+====================================================================================================
+
+ARTICLE #18
+--------------------------------------------------------------------------------
+TITLE: B2B Marketers Need to Know AEO – Answer Engine Optimization
+SOURCE: Demand Gen Report
+PUBLISHED: Fri, 24 Oct 2025 11:00:51 +0000
+URL: https://www.demandgenreport.com/demanding-views/b2b-marketers-need-to-know-aeo-answer-engine-optimization/50613/
+PERPLEXITY SCORE: 9/10
+
+SUMMARY:
+The article emphasizes the growing importance of Answer Engine Optimization (AEO) for B2B marketers as AI-powered search tools like ChatGPT and Google AI Overviews change how users find information. It advises marketers to adopt AEO strategies—such as prompt management and content optimization for AI responses—to maintain visibility and influence in AI-driven search environments beyond traditional SEO methods.
+
+CONTENT PREVIEW:
+Artificial intelligence (AI) is becoming a major factor in search. Not only has Google introduced AI Overviews, which summarize results at the top of the screen, AI engines like ChatGPT and Perplexity are taking a share of searches away from Google, and present search results in an entirely different way. ChatGPT in particular has grown explosively in 2025‚ reaching 100 million users in only two months.
+Despite everyone’s familiarity with Google AI Overviews, not many B2B marketers are diving into “Answer Engine Optimization” to manage AI results across all new AI answer engines yet. Google search still has a 90% market share, and there are still links below the AI summary, so the majority of searches mostly still work the old fashioned way.
+Until AI search becomes the norm, many marketers...
+
+====================================================================================================
+
+ARTICLE #19
+--------------------------------------------------------------------------------
+TITLE: ‘Do not trust your eyes’: AI generates surge in expense fraud
+SOURCE: Financial Times Tech
+PUBLISHED: Sun, 26 Oct 2025 05:00:08 GMT
+URL: https://www.ft.com/content/0849f8fe-2674-4eae-a134-587340829a58
+PERPLEXITY SCORE: 9/10
+
+SUMMARY:
+The article highlights the growing issue of AI-generated fake receipts, which are becoming increasingly sophisticated and difficult to distinguish from real ones, posing a significant challenge for expense fraud detection. This trend underscores the need for advanced AI-based solutions to combat such fraud in the B2B sector.
+
+CONTENT PREVIEW:
+‘Do not trust your eyes’: AI generates surge in expense fraudSubscribe to unlock this articleLimited time offerSave 50% off your first 6 monthsSave now on essential digital access to quality FT journalism with the FT Digital Edition: today’s FT, cover to cover on any device.Save 50%Explore more offers.TrialRs100 for 4 weeksThen Rs4335 per month. Complete digital access to quality FT journalism on any device. Cancel or change your plan anytime during your trial.SelectWhat's included Global news & analysisExpert opinionFT App on Android & iOSFT Edit: Access on iOS and webFirstFT: the day's biggest stories20+ curated newslettersFollow topics & set alerts with myFTFT Videos & Podcasts20 monthly gift articles to shareLex: FT's flagship investment column15+ Premium newsletters by leading experts...
+
+====================================================================================================
+
+ARTICLE #20
+--------------------------------------------------------------------------------
+TITLE: How Williams-Sonoma Inc, Indeed & Heathrow Airport are Improving Customer Experience with Agentic AI
+SOURCE: Salesforce Newsroom
+PUBLISHED: Tue, 21 Oct 2025 23:00:54 +0000
+URL: https://www.salesforce.com/news/linked-content/how-williams-sonoma-inc-indeed-heathrow-airport-are-improving-customer-experience-with-agentic-ai/
+PERPLEXITY SCORE: 9/10
+
+SUMMARY:
+Williams-Sonoma Inc, Indeed, and Heathrow Airport are leveraging Salesforce’s Agentforce agentic AI technology to enhance customer experience by automating routine tasks, personalizing services, and streamlining workflows. This approach reduces operational burdens, improves efficiency, and allows human agents to focus on complex interactions, driving business growth and improved customer engagement across retail, job recruitment, and travel sectors[1][3][4].
+
+====================================================================================================
+
+ARTICLE #21
+--------------------------------------------------------------------------------
+TITLE: Take a Tour of Agentforce City, Where ‌Enterprises Put Agents into Action
+SOURCE: Salesforce Newsroom
+PUBLISHED: Wed, 15 Oct 2025 15:30:00 +0000
+URL: https://www.salesforce.com/news/stories/agentforce-city-dreamforce-2025/
+PERPLEXITY SCORE: 9/10
+
+SUMMARY:
+Agentforce City at Dreamforce 2025 was an immersive exhibit showcasing how leading enterprises like PepsiCo and Equinox use Salesforce’s AI-powered Agentforce platform to deploy autonomous AI agents that streamline business processes and customer interactions across industries. The event highlighted the shift from AI copilots to fully autonomous agents capable of independently executing complex workflows, marking a major evolution in enterprise AI and automation[2][1][5].
+
+CONTENT PREVIEW:
+Customer Success
+
+Take a Tour of Agentforce City, Where ‌Enterprises Put Agents into Action
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+October 15, 2025
+
+			3 min read		
+
+
+
+
+
+
+
+
+
+The Agentic Enterprise has a new address.
+At Dreamforce 2025, a massive installation called Agentforce City showcased how top brands — ‌including PepsiCo, Lennar, and Equinox ‌— ‌are solving real business problems using AI agents.
+Located in the Moscone North convention center, Agentforce City was modeled as an Americana Main Street where attendees can explore 17 customer “storefronts” across seven industries. This immersive exhibit showed attendees how brands use Agentforce, Salesforce’s platform for building and deploying AI agents, to autonomously streamline critical business and customer interactions. 
+
+Open Image Modal
+Image Modal
+
+
+Caixa...
+
+====================================================================================================
+
+ARTICLE #22
+--------------------------------------------------------------------------------
+TITLE: Introducing eVerse: Enterprise Simulation Environments to Train AI Agents
+SOURCE: Salesforce Newsroom
+PUBLISHED: Tue, 14 Oct 2025 19:00:00 +0000
+URL: https://www.salesforce.com/news/linked-content/introducing-everse-enterprise-simulation-environments-to-train-ai-agents/
+PERPLEXITY SCORE: 9/10
+
+SUMMARY:
+The article introduces **eVerse**, a Salesforce enterprise simulation framework designed to train AI agents using synthetic data, realistic digital twins of business environments, and human-guided reinforcement learning. This approach significantly improves AI agent consistency and reliability for complex, multi-step enterprise workflows, aligning with Salesforce’s vision of Enterprise General Intelligence optimized for B2B applications without risking real data privacy[1][2][6].
+
+CONTENT PREVIEW:
+AI Research
+
+Introducing eVerse: Enterprise Simulation Environments to Train AI Agents
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Silvio Savarese 
+
+
+October 14, 2025
+
+			4 min read		
+
+
+
+
+
+
+
+
+
+
+Share article
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Salesforce AI Research announces framework to optimize agent capability and consistency through synthetic data, realistic testing, and reinforcement learning.
+Even as AI models grow more sophisticated, a curious challenge persists: systems that solve PhD-level mathematics struggle with surprisingly simple tasks. Ask a leading language model the famous riddle “Where does Christmas come before Thanksgiving?” and it correctly answers “in the dictionary”—because alphabetically, ‘C’ precedes ‘T.’But swap the words—ask “Where does Thanksgiving come before Christmas?”—and watch the same model con...
+
+====================================================================================================
+
+ARTICLE #23
+--------------------------------------------------------------------------------
+TITLE: Debugging Flow with Tim Peng WizardCast 115
+SOURCE: The Wizard News
+PUBLISHED: Thu, 13 May 2021 16:00:00 +0000
+URL: https://thewizardnews.com/2021/05/13/debugging-flow-with-tim-peng-wizardcast-115/
+PERPLEXITY SCORE: 9/10
+
+SUMMARY:
+The article covers a podcast episode featuring Tim Peng, Salesforce's Director of Product Management, discussing the evolution and improvements in debugging Salesforce Flows, including new tools introduced in the Summer ’21 release that enhance the visual debugging experience and error handling. It highlights the journey from earlier manual debugging methods to modern integrated solutions within the Salesforce platform.
+
+====================================================================================================
+
+ARTICLE #24
+--------------------------------------------------------------------------------
+TITLE: OpenAI reportedly developing new generative music tool
+SOURCE: TechCrunch
+PUBLISHED: Sat, 25 Oct 2025 19:48:54 +0000
+URL: https://techcrunch.com/2025/10/25/openai-reportedly-developing-new-generative-music-tool/
+PERPLEXITY SCORE: 8/10
+
+SUMMARY:
+OpenAI is reportedly developing a generative music tool that can create music from text or audio prompts, potentially enabling users to add music to videos or accompaniment to vocal tracks, expanding creative and practical applications for content creators[1][3].
+
+CONTENT PREVIEW:
+OpenAI is working on a new tool that would generate music based on text and audio prompts, according to a report in The Information.
+Such a tool could be used to add music to existing videos, or to add guitar accompaniment to an existing vocal track, sources said. It’s not clear when OpenAI plans to launch such a tool or whether it would be available as a standalone product (as opposed to integrating with OpenAI’s ChatGPT and video app Sora).
+
+
+
+
+
+
+
+
+One source told The Information that OpenAI is working with some students from the Juilliard School to annotate scores as a way to provide training data.
+While OpenAI has launched generative music models in the past, they predate the launch of ChatGPT; more recently, the company has been developing audio models focused on text-to-speech and sp...
+
+====================================================================================================
+
+ARTICLE #25
+--------------------------------------------------------------------------------
+TITLE: How to use the new ChatGPT app integrations, including Spotify, Figma, Canva, and others
+SOURCE: TechCrunch
+PUBLISHED: Fri, 24 Oct 2025 19:08:10 +0000
+URL: https://techcrunch.com/2025/10/24/how-to-use-the-new-chatgpt-app-integrations-including-spotify-figma-canva-and-others/
+PERPLEXITY SCORE: 8/10
+
+SUMMARY:
+The article explains how to use new ChatGPT app integrations with services like Spotify, Figma, Canva, Expedia, and others, allowing users to connect their accounts and perform tasks such as creating playlists or designing presentations directly within ChatGPT. It highlights the ease of setup, the interactive capabilities blending conversational AI with app functions, and the importance of reviewing data-sharing permissions when linking accounts[4][1][2].
+
+CONTENT PREVIEW:
+OpenAI recently launched new app integrations in ChatGPT to allow you to connect your accounts directly to ChatGPT and ask the assistant to do things for you. For instance, with a Spotify integration, you can tell it to create personalized playlists that will show up right in your Spotify app.
+To get started, make sure you’re logged into ChatGPT. Then type the name of the app you want to use at the start of your prompt, and ChatGPT will guide you through signing in and connecting your account.
+
+
+
+
+
+
+
+
+If you want to set everything up at once, head over to the Settings menu, then click on Apps and Connectors. You can browse through the available apps, pick the ones you like, and it’ll take you to the sign-in page for each one. 
+However, it’s important to note that connecting your account me...
+
+====================================================================================================
+
+ARTICLE #26
+--------------------------------------------------------------------------------
+TITLE: Tech left teens fighting over scraps, and now it wants those too
+SOURCE: The Verge
+PUBLISHED: 2025-10-25T14:00:00-04:00
+URL: https://www.theverge.com/report/806728/tech-left-teens-fighting-over-scraps-robots-taking-jobs
+PERPLEXITY SCORE: 8/10
+
+SUMMARY:
+The article discusses the growing adoption of robotics, AI, and machine vision in retail, particularly in convenience stores and large retailers like Walmart, to automate shelf stocking, inventory scanning, and order fulfillment. It highlights Walmart’s evolving use of these technologies after earlier setbacks, emphasizing improved AI capabilities that enhance inventory accuracy, reduce stockouts, and optimize supply chain and customer experience.
+
+CONTENT PREVIEW:
+ReportCloseReportPosts from this topic will be added to your daily email digest and your homepage feed.FollowFollowSee All ReportTechCloseTechPosts from this topic will be added to your daily email digest and your homepage feed.FollowFollowSee All TechLaborCloseLaborPosts from this topic will be added to your daily email digest and your homepage feed.FollowFollowSee All LaborTech left teens fighting over scraps, and now it wants those tooThey’ve been pushed out of the workforce, now we’re training robots to do the few jobs teens have left.They’ve been pushed out of the workforce, now we’re training robots to do the few jobs teens have left.by  Terrence O'BrienCloseTerrence O'BrienWeekend EditorPosts from this author will be added to your daily email digest and your homepage feed.FollowFoll...
+
+====================================================================================================
+
+ARTICLE #27
+--------------------------------------------------------------------------------
+TITLE: ICE is building a social media panopticon
+SOURCE: The Verge
+PUBLISHED: 2025-10-25T10:00:00-04:00
+URL: https://www.theverge.com/policy/806425/ice-social-media-surveillance-free-speech-assault
+PERPLEXITY SCORE: 8/10
+
+SUMMARY:
+ICE is deploying a $5.7 million AI-powered social media surveillance platform from Zignal Labs, capable of analyzing 8 billion posts daily in over 100 languages, raising significant concerns about privacy, civil liberties, and the use of advanced AI for government monitoring[1]. This move highlights the growing intersection of AI, big data, and government surveillance, with direct implications for tech ethics, B2B AI platforms, and the broader debate over digital rights in the enterprise sector[1].
+
+CONTENT PREVIEW:
+PolicyClosePolicyPosts from this topic will be added to your daily email digest and your homepage feed.FollowFollowSee All PolicyAICloseAIPosts from this topic will be added to your daily email digest and your homepage feed.FollowFollowSee All AIReportCloseReportPosts from this topic will be added to your daily email digest and your homepage feed.FollowFollowSee All ReportICE is building a social media panopticonThe agency’s latest surveillance contract is an ’assault’ on democracy and free speech.The agency’s latest surveillance contract is an ’assault’ on democracy and free speech.by  Emma RothCloseEmma RothNews WriterPosts from this author will be added to your daily email digest and your homepage feed.FollowFollowSee All by Emma RothOct 25, 2025, 2:00 PM UTCLinkShareImage: Cath Virgini...
+
+====================================================================================================
+
+ARTICLE #28
+--------------------------------------------------------------------------------
+TITLE: OpenAI Atlas Browser Hands On: I’m Not Convinced the Web Needs a Chatbot Tour Guide
+SOURCE: Wired
+PUBLISHED: Sat, 25 Oct 2025 10:00:00 +0000
+URL: https://www.wired.com/story/web-browsers-ai-tour-guide-openai-atlas-ask-chatgpt/
+PERPLEXITY SCORE: 8/10
+
+SUMMARY:
+The article critiques OpenAI’s Atlas browser, finding its integrated ChatGPT sidebar only moderately useful and occasionally inaccurate, questioning whether conversational AI truly enhances web browsing for most users.
+
+CONTENT PREVIEW:
+Reece RogersGearOct 25, 2025 6:00 AMOpenAI's Atlas Wants to Be the Web’s Tour Guide. I’m Not Convinced It Needs OneIn OpenAI’s new Atlas browser, the Ask ChatGPT sidebar is moderately helpful at best. Sometimes, it’s confusingly wrong.Illustration: WIRED StaffCommentLoaderSave StorySave this storyCommentLoaderSave StorySave this storyOpenAI’s recently launched Atlas browser is a fascinating inversion of what users may expect from a browser, centering AI answers above traditional web links. Every click in a regular browser is a chance to see a new part of the web. Every click in Atlas is a chance to use ChatGPT.Just typed a question into the address bar? That’s now a ChatGPT query. Want help contextualizing a web page? The Ask ChatGPT sidebar can see and analyze what’s on your screen. Want ...
+
+====================================================================================================
+
+ARTICLE #29
+--------------------------------------------------------------------------------
+TITLE: An AI app to measure pain is here
+SOURCE: MIT Technology Review
+PUBLISHED: Fri, 24 Oct 2025 09:00:00 +0000
+URL: https://www.technologyreview.com/2025/10/24/1126451/an-ai-app-to-measure-pain-is-here/
+PERPLEXITY SCORE: 8/10
+
+SUMMARY:
+The article discusses an AI-powered app, PainChek, featured in MIT Technology Review, which uses facial scans and AI to assess pain levels, offering a more objective and accurate method than traditional pain scales. This technology is particularly useful for individuals who cannot reliably verbalize their pain.
+
+CONTENT PREVIEW:
+Biotechnology and healthAn AI app to measure pain is hereBut can technology describe something so personal?
+By Jessica Hamzelouarchive pageOctober 24, 2025Stephanie Arnett/MIT Technology Review | Public Domain How are you feeling? I’m genuinely interested in the well-being of all my treasured Checkup readers, of course. But this week I’ve also been wondering how science and technology can help answer that question—especially when it comes to pain. In the latest issue of MIT Technology Review magazine, Deena Mousa describes how an AI-powered smartphone app is being used to assess how much pain a person is in.  The app, and other tools like it, could help doctors and caregivers. They could be especially useful in the care of people who aren’t able to tell others how they are feeling. But the...
+
+====================================================================================================
+
+ARTICLE #30
+--------------------------------------------------------------------------------
+TITLE: Mistral launches its own AI Studio for quick development with its European open source, proprietary models
+SOURCE: VentureBeat AI
+PUBLISHED: Fri, 24 Oct 2025 06:55:00 GMT
+URL: https://venturebeat.com/ai/mistral-launches-its-own-ai-studio-for-quick-development-with-its-european
+PERPLEXITY SCORE: 8/10
+
+SUMMARY:
+Mistral AI has launched AI Studio, a production-grade platform enabling enterprises to quickly develop, deploy, and manage AI agents and applications using both open-source and proprietary European models, with a focus on governance, observability, and flexible deployment options[1][2]. The platform targets B2B clients seeking to operationalize AI at scale, offering deep customization, privacy, and expert support—positioning it as a strong contender in the enterprise AI tools market[1][2].
+
+CONTENT PREVIEW:
+Mistral launches its own AI Studio for quick development with its European open source, proprietary modelsCarl Franzen
+
+    October 24, 2025
+  
+Pop art style AI image of workers at a long table in front of a vibrant colorful Eiffel Tower. Credit: VentureBeatThe next big trend in AI providers appears to be "studio" environments on the web that allow users to spin up agents and AI applications within minutes. Case in point, today the well-funded French AI startup Mistral launched its own Mistral AI Studio, a new production platform designed to help enterprises build, observe, and operationalize AI applications at scale atop Mistral's growing family of proprietary and open source large language models (LLMs) and multimodal models.It's an evolution of its legacy API and AI building platorm, "L...
+
+====================================================================================================
+
+ARTICLE #31
+--------------------------------------------------------------------------------
+TITLE: Serious vulnerability found in Rust library
+SOURCE: InfoWorld
+PUBLISHED: Thu, 23 Oct 2025 00:10:52 +0000
+URL: https://www.infoworld.com/article/4077470/serious-vulnerability-found-in-rust-library-2.html
+PERPLEXITY SCORE: 8/10
+
+SUMMARY:
+A serious high-severity vulnerability (CVE-2025-62518) named TARmageddon was found in the Rust async-tar library and its many forks, including the widely used but unmaintained tokio-tar. This flaw allows remote code execution by exploiting how TAR archive headers are parsed, posing significant risks to build systems, containerized applications, and cloud-native environments that rely on these libraries. Due to the original project's abandonment, patching has been complicated, urging users to migrate to actively maintained forks like astral-tokio-tar to mitigate the threat[1][2][3][4].
+
+CONTENT PREVIEW:
+Hole in the TAR library and its forks could lead to remote code execution.			
+
+
+
+
+
+ 
+
+							Credit: 															fizkes/Shutterstock													
+
+
+
+
+
+
+
+
+
+
+
+Developers creating projects in the Rust programming language, as well as IT leaders with Rust-based applications in their environments, should pay attention to a serious vulnerability found in one of the programming language’s libraries.
+Researchers at Edera say they have uncovered a critical boundary-parsing bug, dubbed TARmageddon (CVE-2025-62518), in the popular async-tar Rust library. And not only is it in this library, but also in its many forks, including the widely used tokio-tar.
+“In the worst-case scenario, this vulnerability has a severity of 8.1 (High) and can lead to Remote Code Execution (RCE) through file overwriting ...
+
+====================================================================================================
+
+ARTICLE #32
+--------------------------------------------------------------------------------
+TITLE: AI policy without proof is just politics
+SOURCE: SiliconANGLE
+PUBLISHED: Fri, 24 Oct 2025 19:23:15 +0000
+URL: https://siliconangle.com/2025/10/24/ai-policy-without-proof-just-politics/
+PERPLEXITY SCORE: 8/10
+
+SUMMARY:
+The article critiques the White House’s AI policy, emphasizing that without empirical proof and evidence-based approaches, AI governance risks becoming mere political posturing. It highlights the ambitious goals of the U.S. AI Action Plan to accelerate innovation, build infrastructure, and ensure fairness, but stresses the need for policies grounded in demonstrable outcomes rather than rhetoric.
+
+CONTENT PREVIEW:
+UPDATED 15:23 EDT / OCTOBER 24 2025
+
+
+
+
+
+ AI
+
+
+
+
+	                    AI policy without proof is just politics					
+
+ 
+
+GUEST COLUMN					        	                        by 
+Ion Stoica
+
+
+
+
+
+SHARE 
+
+
+
+The White House’s recent executive orders on artificial intelligence and the launch of America’s AI Action Plan have made one thing clear: The United States intends to lead the world in AI.
+To be sure, the policy direction is ambitious: Accelerate innovation, strengthen infrastructure and ensure fairness and safety. But as important as these goals are, rules and principles alone cannot deliver trust.
+The next frontier in AI governance is not about writing more rules. It’s about making them work.
+What policymakers need to do now is ensure that they have reliable, independent evidence to know wh...
+
+====================================================================================================
+
+ARTICLE #33
+--------------------------------------------------------------------------------
+TITLE: SPS25: How to Make Space for Your Boldest B2B Marketing Ideas
+SOURCE: Demand Gen Report
+PUBLISHED: Wed, 22 Oct 2025 15:30:06 +0000
+URL: https://www.demandgenreport.com/blog/sps25-how-to-make-space-for-your-boldest-b2b-marketing-ideas/50600/
+PERPLEXITY SCORE: 8/10
+
+SUMMARY:
+The article discusses Josh Baez's upcoming webinar at the 12th Annual Strategy & Planning Series (SPS25), focusing on fostering creativity and innovation in B2B marketing strategies. It highlights Baez's approach to finding inspiration outside traditional planning methods, emphasizing the importance of curiosity and fresh perspectives in marketing.
+
+CONTENT PREVIEW:
+Most webinars about “planning” will hand you another template. Another funnel. Another marketing acronym.
+This is not the webinar Josh Baez of NetLine will be offering during the 12th Annual Strategy & Planning Series (SPS) (#SPS25) set for Oct. 27.
+Titled Strategy Happens in the Margins: The Quiet Return of Curiosity, Chaos, and the Joy of Not Knowing What Comes Next, Baez knows that the best ideas don’t come from spreadsheets or quarterly decks. They happen in the margins—. on dog walks, in grocery aisles, in half-asleep voice memos we jot down before they disappear.
+At #SPS25, we are not feeding prompts into ChatGPT, but posing them to leading B2B marketing experts—sparking real conversations, fresh perspectives, and actionable insights that you can use to fuel your team’s rocket to B2B...
+
+====================================================================================================
+
+ARTICLE #34
+--------------------------------------------------------------------------------
+TITLE: Compassionate Documentation WizardCast Episode 117
+SOURCE: The Wizard News
+PUBLISHED: Wed, 26 Jan 2022 16:12:16 +0000
+URL: https://thewizardnews.com/2022/01/26/compassionate-documentation-wizardcast-episode-117/
+PERPLEXITY SCORE: 8/10
+
+SUMMARY:
+WizardCast Episode 117 focuses on "Compassionate Documentation," featuring an interview with Jon Varese, Senior Director of Documentation at Salesforce.org. The episode highlights the importance of documentation, particularly compassionate documentation, in a fun and engaging manner typical of the WizardCast style.
+
+CONTENT PREVIEW:
+By Brian Kwong 
+
+			 Posted January 26, 2022
+
+ In WizardCast
+Compassionate Documentation WizardCast Episode 1172022-01-262022-01-26https://thewizardnews.com/uploads/2018/10/wn-fb-cover.pngThe Wizard Newshttps://thewizardnews.com/uploads/2018/10/wn-fb-cover.png200px200px
+
+ 0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Compassionate Documentation
+WizardCast Episode 117
+   
+Click logo to subscribe
+RSS Feed http://wizardcast.libsyn.com/rss
+
+
+
+Send Us Your Feedback & Suggestions!
+
+Voicemail: 608.492.0321 (Note please tell us in your message if you do NOT want your voicemail to be included in the podcast).
+Email: wizardcast@thewizardnews.com
+Website: https://thewizardnews.com/wizardcast_home/contact-us-wizardcast
+
+We know it’s been a while. Things have been a bit rough pandemic-wise in the studio. Here’s an interview we ac...
+
+====================================================================================================
+
+ARTICLE #35
+--------------------------------------------------------------------------------
+TITLE: We’re Back! A Spring 21 Release Notes Story Episode 114
+SOURCE: The Wizard News
+PUBLISHED: Tue, 23 Feb 2021 18:00:28 +0000
+URL: https://thewizardnews.com/2021/02/23/were-back-a-spring-21-release-notes-story-episode-114/
+PERPLEXITY SCORE: 8/10
+
+SUMMARY:
+The article "We’re Back! A Spring 21 Release Notes Story Episode 114" discusses the Salesforce Spring ’21 release, highlighting key new features such as enhanced opportunity product relationships, manual sharing in Lightning Experience, and improvements in Lightning page performance and meeting tools. It serves as an update for Salesforce users and admins on the latest CRM enhancements aimed at improving usability and sales processes.
+
+CONTENT PREVIEW:
+By Brian Kwong 
+
+			 Posted February 23, 2021
+
+ In Releases, WizardCast
+We’re Back! A Spring 21 Release Notes Story Episode 1142021-02-232021-02-23https://thewizardnews.com/uploads/2018/10/wn-fb-cover.pngThe Wizard Newshttps://thewizardnews.com/uploads/2018/10/wn-fb-cover.png200px200px
+
+ 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+We’re Back! A Spring 21 Release Notes Story
+WizardCast Episode 114
+   
+Click logo to subscribe
+RSS Feed http://wizardcast.libsyn.com/rss
+
+
+Send Us Your Feedback & Suggestions!
+
+Voicemail: 608.492.0321 (Note please tell us in your message if you do NOT want your voicemail to be included in the podcast).
+Email: wizardcast@thewizardnews.com
+Website: https://thewizardnews.com/wizardcast_home/contact-us-wizardcast
+
+It’s been a while since the last episode. Thanks for your patience during this ...
+
+====================================================================================================
+
+ARTICLE #36
+--------------------------------------------------------------------------------
+TITLE: Who are AI browsers for?
+SOURCE: TechCrunch
+PUBLISHED: Sat, 25 Oct 2025 16:51:36 +0000
+URL: https://techcrunch.com/2025/10/25/who-are-ai-browsers-for/
+PERPLEXITY SCORE: 7/10
+
+SUMMARY:
+OpenAI launched ChatGPT Atlas, an AI-powered browser currently available on macOS, which integrates ChatGPT directly into the browsing experience to assist with tasks like webpage summarization and inline editing. While it offers some efficiency improvements, early reviews suggest it provides only slight gains compared to competitors like Perplexity’s Comet, which has more direct data integrations for real-world utility[1][2][4].
+
+CONTENT PREVIEW:
+OpenAI launched an AI-powered web browser called ChatGPT Atlas this week, which makes me wonder: Is it finally time to ditch Safari?
+That news was on our minds as Max Zeff, Sean O’Kane, and I discussed the browser landscape — including some lesser-known alternatives — on the latest episode of the Equity podcast. But it doesn’t sound like any of us will be making a big switch soon.
+
+
+
+
+
+
+
+
+For one thing, Sean noted many companies have tried and ultimately failed to unseat the major browsers due to their inability to make money on the browser alone. Of course, that’s less likely to be a problem for OpenAI, with its increasingly massive funding rounds.
+Max, meanwhile, has actually tried out Atlas and other browsers that promise AI agents will do the work for you, and he said there’s a “slight...
+
+====================================================================================================
+
+ARTICLE #37
+--------------------------------------------------------------------------------
+TITLE: Python has a friend in Rust
+SOURCE: InfoWorld
+PUBLISHED: Fri, 24 Oct 2025 09:00:00 +0000
+URL: https://www.infoworld.com/article/4078252/python-has-a-friend-in-rust.html
+PERPLEXITY SCORE: 7/10
+
+SUMMARY:
+The article highlights Python 3.14’s release with many new features and improvements, emphasizing enhanced performance, developer experience, and debugging capabilities. It also notes the growing synergy between Python and Rust, particularly through tools like PyO3 that enable writing Python modules in Rust, combining Python’s ease of use with Rust’s speed and safety.
+
+CONTENT PREVIEW:
+Read about the big new Python 3.14 release, a Rust-powered utility to package Python apps to go, a smarter Python package manager, a Python rival for AI development, and more in our biweekly Python Report. 			
+
+
+
+
+
+ 
+
+							Credit: 															Randy Hergenrether / Shutterstock													
+
+
+
+
+
+
+
+
+
+
+
+Python 3.14 is here, and it’s bursting with goodies! Plus, Rust is making it easier to redistribute Python apps, PDM is simplifying Python package management, and Java is challenging Python for developing AI applications. 
+Top picks for Python readers on InfoWorld
+The best new features and fixes in Python 3.14Welcome to the biggest new Python release in years, with official support for free-threaded (“no-GIL”) Python, a revamped installation manager for Windows, template strings, and so mu...
+
+====================================================================================================
+
+ARTICLE #38
+--------------------------------------------------------------------------------
+TITLE: Branch Report Details State of Mobile Marketing
+SOURCE: Demand Gen Report
+PUBLISHED: Tue, 21 Oct 2025 11:00:04 +0000
+URL: https://www.demandgenreport.com/industry-news/news-brief/branch-report-details-state-of-mobile-marketing/50573/
+PERPLEXITY SCORE: 7/10
+
+SUMMARY:
+The Branch State of App Growth report highlights that most companies lack a unified view of app marketing performance across channels and struggle with accurate attribution, with only 8% of marketers achieving full visibility; the article emphasizes that sustainable growth now depends more on retention and engagement than on acquisition spend, reflecting broader industry challenges with privacy, AI adoption, and ROI measurement in mobile marketing[1][5].
+
+CONTENT PREVIEW:
+Branch has released its State of App Growth report that show companies struggling to have a fully unified view of their app marketing performance across multiple channels as well as their ability to accurately attribute app installs.
+Only 8% of marketers report having a fully unified view of app performance across channels, while the majority are working with either mostly unified (54%) or partially unified (39%) data. With continued investment in consolidation and collaboration, more teams are laying the groundwork for a connected, cross-channel view.
+Attribution remains a work in progress as just 18% of marketers say they feel very confident in their ability to match installs to the correct source, while 82% report only partial clarity. Respondents reported they are actively exploring ne...
+
+====================================================================================================
+
+ARTICLE #39
+--------------------------------------------------------------------------------
+TITLE: Will AI lengthen lifespans or shorten them?
+SOURCE: Financial Times Tech
+PUBLISHED: Fri, 24 Oct 2025 04:00:16 GMT
+URL: https://www.ft.com/content/eac9e5e4-5401-4411-9a69-c037b609c0cb
+PERPLEXITY SCORE: 7/10
+
+SUMMARY:
+The article discusses how AI-driven scientific advances could extend human lifespans by improving diagnostics, personalized treatments, and drug discovery, potentially allowing people to live significantly longer and healthier lives. However, it also highlights socio-economic disparities that may cause uneven benefits, with some populations potentially experiencing shorter lifespans due to unequal access to these technologies.
+
+CONTENT PREVIEW:
+Will AI lengthen lifespans or shorten them?Subscribe to unlock this articleLimited time offerSave 50% off your first 6 monthsSave now on essential digital access to quality FT journalism with the FT Digital Edition: today’s FT, cover to cover on any device.Save 50%Explore more offers.TrialRs100 for 4 weeksThen Rs4335 per month. Complete digital access to quality FT journalism on any device. Cancel or change your plan anytime during your trial.SelectWhat's included Global news & analysisExpert opinionFT App on Android & iOSFT Edit: Access on iOS and webFirstFT: the day's biggest stories20+ curated newslettersFollow topics & set alerts with myFTFT Videos & Podcasts20 monthly gift articles to shareLex: FT's flagship investment column15+ Premium newsletters by leading expertsFT Digital Edition...
+
+====================================================================================================
+
+ARTICLE #40
+--------------------------------------------------------------------------------
+TITLE: EU accuses Meta of failing to police illegal content online
+SOURCE: Financial Times Tech
+PUBLISHED: Fri, 24 Oct 2025 09:45:01 GMT
+URL: https://www.ft.com/content/d914e7a3-c008-4eca-bd3f-dab0f8ef673c
+PERPLEXITY SCORE: 6/10
+
+SUMMARY:
+The European Union has formally accused Meta Platforms of failing to provide an effective mechanism for users to report illegal content on Facebook and Instagram, violating the Digital Services Act (DSA). Meta faces potential fines of up to 6% of its global annual revenue as part of the EU's broader effort to enforce stricter content moderation and transparency rules on large tech companies[1][2][5].
+
+CONTENT PREVIEW:
+EU accuses Meta of failing to police illegal content online Subscribe to unlock this articleLimited time offerSave 50% off your first 6 monthsSave now on essential digital access to quality FT journalism with the FT Digital Edition: today’s FT, cover to cover on any device.Save 50%Explore more offers.TrialRs100 for 4 weeksThen Rs4335 per month. Complete digital access to quality FT journalism on any device. Cancel or change your plan anytime during your trial.SelectWhat's included Global news & analysisExpert opinionFT App on Android & iOSFT Edit: Access on iOS and webFirstFT: the day's biggest stories20+ curated newslettersFollow topics & set alerts with myFTFT Videos & Podcasts20 monthly gift articles to shareLex: FT's flagship investment column15+ Premium newsletters by leading expertsF...
+
+====================================================================================================
+
+ARTICLE #41
+--------------------------------------------------------------------------------
+TITLE: Introducing: the body issue
+SOURCE: MIT Technology Review
+PUBLISHED: Wed, 22 Oct 2025 12:10:00 +0000
+URL: https://www.technologyreview.com/2025/10/22/1126376/introducing-the-body-issue/
+PERPLEXITY SCORE: 5/10
+
+SUMMARY:
+The article introduces MIT Technology Review’s “body issue,” focusing on how science and technology—including AI, genetics, and stem cells—could redefine the human body, with only a minor, indirect connection to broader tech/AI industry trends and no specific relevance to Salesforce or B2B topics[1].
+
+CONTENT PREVIEW:
+The Download Introducing: the body issuePlus: OpenAI's AI-powered web browser is coming
+By Rhiannon Williamsarchive pageOctober 22, 2025 This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. Introducing: the body issue  We’re thrilled to share the latest edition of MIT Technology Review magazine, digging into the future of the human body, and how it could change in the years ahead thanks to scientific and technological tinkering.The below stories are just a taste of what you can expect from this fascinating issue. To read the full thing, subscribe now if you haven’t already. + A new field of science claims to be able to predict aesthetic traits, intelligence, and even moral  
+character in embryos. But is th...
+
+====================================================================================================
+
+ARTICLE #42
+--------------------------------------------------------------------------------
+TITLE: High school’s AI security system confuses Doritos bag for a possible firearm
+SOURCE: TechCrunch
+PUBLISHED: Sat, 25 Oct 2025 19:05:11 +0000
+URL: https://techcrunch.com/2025/10/25/high-schools-ai-security-system-confuses-doritos-bag-for-a-possible-firearm/
+PERPLEXITY SCORE: 3/10
+
+SUMMARY:
+A high school AI security system in Baltimore County mistakenly identified a student's crumpled Doritos bag as a firearm, leading to a police search and handcuffing. The incident highlights challenges and potential flaws in AI-based security detection systems.
+
+CONTENT PREVIEW:
+A high school student in Baltimore County, Maryland was reportedly handcuffed and searched after an AI security system flagged his bag of chips as a possible firearm.
+Taki Allen, a student at Kenwood High School, told CNN affiliate WBAL, “I was just holding a Doritos bag — it was two hands and one finger out, and they said it looked like a gun.” But as a result, Allen said, “They made me get on my knees, put my hands behind my back, and cuffed me.” 
+
+
+
+
+
+
+
+
+In a statement shared with parents, Principal Katie Smith said the school’s security department had reviewed and canceled a gun detection alert, while Smith (who didn’t immediately realize the alert had been canceled) reported the situation to the school resource officer, who called the local police.
+Omnilert, the company that operates ...
+
+====================================================================================================
+
+ARTICLE #43
+--------------------------------------------------------------------------------
+TITLE: India, the market BlaBlaCar once walked away from, is now its biggest
+SOURCE: TechCrunch
+PUBLISHED: Sat, 25 Oct 2025 14:00:00 +0000
+URL: https://techcrunch.com/2025/10/25/india-the-market-blablacar-once-walked-away-from-is-now-its-biggest/
+PERPLEXITY SCORE: 3/10
+
+SUMMARY:
+BlaBlaCar, a global ride-sharing platform, is experiencing rapid growth in India, with passenger numbers expected to reach 20 million in 2025, a 50% increase from the previous year. After initially withdrawing from the Indian market in 2017 due to competition, BlaBlaCar has seen a strong resurgence driven by a young, mobile-first demographic seeking cost-effective and tech-enabled mobility solutions[2][1].
+
+CONTENT PREVIEW:
+Every few weekends, 21-year-old student Lavanya Jain opens the BlaBlaCar app to find a lift from Noida on the outskirts of New Delhi to his home in Kandhla, a small town in northern India’s Uttar Pradesh state. The 120-kilometer journey costs him about ₹500, the equivalent of about $6. That’s a fraction of the ₹1,500–₹2,000, or $17–$23, he would pay for a private cab. 
+“If you’re looking for a fast, efficient, affordable, and comfortable way to travel — and you like to chat — you should basically check out BlaBlaCar,” Jain told TechCrunch, adding that he has used the app some 40 to 50 times over the past two years.
+
+
+
+
+
+
+
+
+Jain is one of millions of Indians turning to long-distance carpooling as a cheaper, more social way to travel between cities. That surge has made India the company’s la...
+
+====================================================================================================
+
+ARTICLE #44
+--------------------------------------------------------------------------------
+TITLE: Apple says Jon Prosser ‘has not indicated’ when he may respond to lawsuit
+SOURCE: The Verge
+PUBLISHED: 2025-10-24T19:07:53-04:00
+URL: https://www.theverge.com/news/806664/apple-jon-prosser-not-indicated-respond-lawsuit-trade-secrets-ramacciotti
+PERPLEXITY SCORE: 3/10
+
+SUMMARY:
+Apple is pursuing legal action against YouTuber Jon Prosser for allegedly stealing trade secrets related to iOS 26, with Prosser failing to formally respond to the lawsuit despite claiming active communication with Apple. The court has entered default against Prosser, allowing the case to proceed without his participation, and Apple is seeking damages and an injunction to block further leaks[1][2].
+
+CONTENT PREVIEW:
+NewsCloseNewsPosts from this topic will be added to your daily email digest and your homepage feed.FollowFollowSee All NewsTechCloseTechPosts from this topic will be added to your daily email digest and your homepage feed.FollowFollowSee All TechAppleCloseApplePosts from this topic will be added to your daily email digest and your homepage feed.FollowFollowSee All AppleApple says Jon Prosser ‘has not indicated’ when he may respond to lawsuitApple intends to file a default judgment against Prosser.Apple intends to file a default judgment against Prosser.by  Jay PetersCloseJay PetersSenior ReporterPosts from this author will be added to your daily email digest and your homepage feed.FollowFollowSee All by Jay PetersOct 24, 2025, 11:07 PM UTCLinkShareImage: Cath Virginia / The VergeJay Peters...
+
+====================================================================================================
+
+ARTICLE #45
+--------------------------------------------------------------------------------
+TITLE: The Best OTC Hearing Aids (2025), Tested and Reviewed
+SOURCE: Wired
+PUBLISHED: Sat, 25 Oct 2025 12:00:00 +0000
+URL: https://www.wired.com/gallery/best-over-the-counter-hearing-aids/
+PERPLEXITY SCORE: 3/10
+
+SUMMARY:
+The article reviews the best over-the-counter (OTC) hearing aids of 2025, focusing on affordability, ease of purchase, and performance for adults with mild to moderate hearing loss, but offers minimal direct relevance to tech/AI/Salesforce/B2B topics, as it centers on consumer health devices rather than enterprise technology or AI-driven business solutions[1][5]. While some featured devices include basic connectivity and app support, the analysis does not delve into advanced tech integrations, AI applications, or B2B sales strategies[1][4].
+
+CONTENT PREVIEW:
+Christopher NullGearOct 25, 2025 8:00 AMThe Best Over-the-Counter Hearing AidsThese WIRED-tested hearing aids are affordable alternatives to prescription devices. No doctor’s appointment necessary.CommentLoaderSave StorySave this storyCommentLoaderSave StorySave this storyAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products through these links. Learn more.Featured in this articleBest OTC Hearing AidJabra Enhance Select 300Read more$1,695 JabraBest OTC UpgradeJabra Enhance Select 700Read more$1,995 $1,795 (10% off) JabraBest OTC ValueJabra Enhance Select 50RRead more$1,195 JabraBest Invisible Fit OTC Hearing AidsSony CRE-C20 Hearing AidsRead more$998 AmazonIn 2022, the US Food and Drug...
+
+====================================================================================================
+
+ARTICLE #46
+--------------------------------------------------------------------------------
+TITLE: What’s next for carbon removal?
+SOURCE: MIT Technology Review
+PUBLISHED: Fri, 24 Oct 2025 09:00:00 +0000
+URL: https://www.technologyreview.com/2025/10/24/1126478/whats-next-for-carbon-removal/
+PERPLEXITY SCORE: 2/10
+
+SUMMARY:
+The article discusses the future of carbon removal technologies, highlighting early-stage companies leveraging natural solutions and the growing investment in carbon dioxide removal (CDR) methods. It focuses on environmental and climate technology trends rather than core tech sectors like AI, Salesforce, or B2B sales.
+
+CONTENT PREVIEW:
+Climate change and energyWhat’s next for carbon removal?Companies have still drawn down only enough CO2 to cancel out a few hours of US emissions. Here’s what it will take to really scale up the sector.
+By James Templearchive pageOctober 24, 2025Climeworks' Mammoth carbon removal plant in Reykjavik, Iceland.John Moore/Getty Images MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here.In the early 2020s, a little-known aquaculture company in Portland, Maine, snagged more than $50 million by pitching a plan to harness nature to fight back against climate change. The company, Running Tide, said it could sink enough kelp to the seafloor to sequester a billion tons of carbon dioxide...
+
+====================================================================================================
+
+ARTICLE #47
+--------------------------------------------------------------------------------
+TITLE: China upgraded missiles using UAE technology, Biden spies said
+SOURCE: Financial Times Tech
+PUBLISHED: Sat, 25 Oct 2025 16:00:02 GMT
+URL: https://www.ft.com/content/a1882789-d283-4bf9-a3df-19b1b7ce9799
+PERPLEXITY SCORE: 2/10
+
+SUMMARY:
+The article reports that U.S. intelligence concluded the UAE provided technology, via its AI company G42, that China used to upgrade its long-range air-to-air missiles, notably improving missile range and flight path optimization. This revelation has sparked debate in Washington about the UAE's growing technological ties with China and concerns over U.S. strategic alliances in the Gulf region[4].
+
+CONTENT PREVIEW:
+US Politics 2025Subscribe to unlock this articleChina upgraded missiles using UAE technology, Biden spies said Try unlimited accessRs100 for 4 weeksSubscribe TodayWant a deeper look?Explore our recommended subscriptionsExplore more offers.Standard DigitalSave 40%was Rs34200 now Rs20500 for your first yearSave now on essential digital access to quality FT journalism on any device. Saving based on monthly annualised price.SelectWhat's included Global news & analysisExpert opinionFT App on Android & iOSFT Edit: Access on iOS and webFirstFT: the day's biggest stories20+ curated newslettersFollow topics & set alerts with myFTFT Videos & Podcasts10 monthly gift articles to shareFT Digital EditionRs7669 per yearFT Digital Edition: today’s FT, cover to cover on any device. This subscription does n...
+
+====================================================================================================
+
+ARTICLE #48
+--------------------------------------------------------------------------------
+TITLE: Man takes herbal pain quackery, nearly dies, spends months in hospital
+SOURCE: Ars Technica
+PUBLISHED: Fri, 24 Oct 2025 21:29:30 +0000
+URL: https://arstechnica.com/health/2025/10/man-takes-herbal-pain-quackery-nearly-dies-spends-months-in-hospital/
+PERPLEXITY SCORE: 1/10
+
+SUMMARY:
+A 61-year-old man suffered severe bacterial infection and extensive wounds after using an herbal pain remedy, resulting in intensive care and months of hospitalization. The case highlights serious risks and adverse effects associated with unregulated herbal medicine use for pain management.
+
+CONTENT PREVIEW:
+hidden dangers
+  
+
+
+
+        Man takes herbal pain quackery, nearly dies, spends months in hospital
+      
+
+        The 61-year-old had wounds all over, a bacterial infection, and needed intensive care.
+      
+
+
+    Beth Mole
+  
+  –
+  
+
+      Oct 24, 2025 5:29 pm
+    
+| 
+
+    146
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Credit:
+
+                      
+          
+          Getty | Scott Olson
+
+                      
+
+
+
+
+
+
+
+
+
+
+
+          Credit:
+
+                      
+          
+          Getty | Scott Olson
+
+                      
+
+
+
+
+
+
+
+
+
+
+
+
+
+Text
+        settings
+
+
+
+
+
+
+
+
+
+
+
+
+
+Story text
+
+
+
+
+
+
+Size
+
+Small
+Standard
+Large
+
+Width
+      *
+
+
+Standard
+Wide
+
+Links
+
+Standard
+Orange
+
+
+* Subscribers only
+      Learn more
+
+
+            Minimize to nav
+          
+
+
+
+
+
+
+
+
+
+A 61-year-old man in California is lucky...
+
+====================================================================================================
+
